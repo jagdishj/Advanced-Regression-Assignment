@@ -27,8 +27,8 @@ Ridge - 2 <br>
 Lasso - 0.0002 <br>
 
 The Mean Squared error in case of Ridge and Lasso are:<br>
-Ridge - 0.0138<br>
-Lasso - 0.0139<br>
+Ridge - 0.01388<br>
+Lasso - 0.01393<br>
 
 The Mean Squared Error of Lasso is slightly higher than that of Ridge <br>
 
